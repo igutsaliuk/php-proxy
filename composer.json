@@ -1,0 +1,6 @@
+{
+    "require": {
+		"athlon1600/php-proxy": "^5.0.1",
+		"athlon1600/php-proxy-plugin-bundle": "dev-master"        
+    }
+}
